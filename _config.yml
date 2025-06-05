@@ -57,22 +57,16 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Bryan Dalley, M.E.d, ACMHC"
+  avatar : "/assets/images/bio-photo.jpg"  # Add an image there later!
+  bio    : "Therapist, writer, human. I believe good therapy starts with connection."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/bdalley1"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:bdalley@elliementalhealth.com"
 
 footer:
   links:
