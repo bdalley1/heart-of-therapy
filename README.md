@@ -10,7 +10,7 @@ This site hosts the **HEART Documentation Framework**—a relational, human-cent
 - Response & progress  
 - Trajectory & plan
 
-The site also includes:
+The site  also includes:
 - Sample HEART notes across therapy modalities
 - Client-facing articles on mental health and therapy
 - Info about Bryan's approach, credentials, and contact
