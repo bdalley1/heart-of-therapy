@@ -5,6 +5,4 @@ layout: single
 author_profile: true
 ---
 
-👋 Hi, I'm Bryan, a therapist who believes therapy—and therapy notes—should be human.
-
-[Add more about your story here]
+👋 Hi, I’m Bryan. I’m a therapist who believes therapy—and documentation—should feel human. I created the HEART framework to help clinicians write notes that reflect the actual work of therapy.
