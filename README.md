@@ -1,4 +1,4 @@
-# Therapy and Notes for Humans
+# The HEART of Therapy
 
 Welcome to the GitHub repository for Bryan Dalley's professional website.  
 This site hosts the **HEART Documentation Framework**—a relational, human-centered approach to therapy notes—and provides resources for clients, therapists, and fellow curious humans.
