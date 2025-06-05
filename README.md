@@ -1,27 +1,21 @@
-# Minimal Mistakes remote theme starter
+# Therapy and Notes for Humans
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+Welcome to the GitHub repository for Bryan Dalley's professional website.  
+This site hosts the **HEART Documentation Framework**—a relational, human-centered approach to therapy notes—and provides resources for clients, therapists, and fellow curious humans.
 
-Contains basic configuration to get you a site with:
+🫀 **HEART** stands for:
+- Human connection  
+- Exploration & themes  
+- Approach & interventions  
+- Response & progress  
+- Trajectory & plan
 
-- Sample  posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
-
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+The site also includes:
+- Sample HEART notes across therapy modalities
+- Client-facing articles on mental health and therapy
+- Info about Bryan's approach, credentials, and contact
 
 ---
 
-## Troubleshooting
-
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
-
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+© Bryan Dalley, M.Ed., ACMHC  
+Content is for educational and informational purposes only.
