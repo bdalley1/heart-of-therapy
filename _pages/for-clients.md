@@ -1,8 +1,10 @@
 ---
-title: "My Work as a Therapist"
+title: "For Clients"
 permalink: /for-clients/
 layout: single
 author_profile: true
 ---
 
-Hi, do you need help? 
+Welcome! This section is for anyone exploring therapy with me. You’ll find articles, resources, and a bit more about how I work and what to expect.
+
+More to come soon!
