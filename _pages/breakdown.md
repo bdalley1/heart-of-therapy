@@ -1,10 +1,10 @@
 ---
-title: What Does Each Section Mean? 
+title: Breakdown by Section with Traditional-to-HEART Examples 
 permalink: /heart-framework/breakdown/
 layout: single
 ---
 
-## **Breakdown by Section with Traditional-to-HEART Examples**
+
 
 **❤️ H – Human Connection**
 
