@@ -36,7 +36,7 @@ author:
       icon: "fas fa-fw fa-envelope"
       url: "mailto:bdalley@elliementalhealth.com"
     - label: "Call Me"
-      icon: "fab fa-fw fa-phone"
+      icon: "fas fa-phone"
       url: "tel:3854384909"
 
 footer:
@@ -45,7 +45,7 @@ footer:
       icon: "fas fa-fw fa-envelope"
       url: "mailto:bdalley@elliementalhealth.com"
     - label: "Call Me"
-      icon: "fab fa-fw fa-phone"
+      icon: "fas fa-phone"
       url: "tel:3854384909"
 
 defaults:
