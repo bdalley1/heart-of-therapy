@@ -1,6 +1,6 @@
 ---
 title: What Does Each Section Mean? 
-permalink: /heart-of-therapy/heart-framework/breakdown/
+permalink: /heart-framework/breakdown/
 layout: single
 ---
 
