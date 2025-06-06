@@ -1,6 +1,6 @@
 ---
 title: What Does Each Section Mean? 
-permalink: /heart-framework/breakdown/
+permalink: /heart-of-therapy/heart-framework/breakdown/
 layout: single
 ---
 
@@ -12,7 +12,7 @@ layout: single
 
 **🔑 Essential Elements:**
 
-- Client’s emotional/relational presenta|tion (e.g., guarded, joking, withdrawn)
+- Client’s emotional/relational presentation (e.g., guarded, joking, withdrawn)
 - Therapist's attunement or relational stance
 - Any notable shifts in connection or trust
 - Moments of vulnerability or rupture
