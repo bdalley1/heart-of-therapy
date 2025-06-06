@@ -31,7 +31,7 @@ plugins:
 
 author:
   name   : "Bryan Dalley, ACMHC"
-  avatar : "/assets/images/Bryan Dalley - Photo.jpg"
+  avatar : "/assets/images/bryan-photo.jpg"
   bio    : "Therapist, writer, human. I believe therapy—and notes—should feel human."
   links:
     - label: "Email"
