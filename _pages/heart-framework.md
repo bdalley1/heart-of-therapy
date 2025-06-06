@@ -28,5 +28,5 @@ Each section emphasizes clinical nuance, rapport, and process—all the human pa
 ---
 
 ### 🧠 Learn More:
-- [Breakdown by Section](/heart-framework/breakdown/)
+- [Breakdown by Section](/heart-of-therapy/heart-framework/breakdown/)
 
