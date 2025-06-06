@@ -1,13 +1,10 @@
 ---
-title: "HEART Documentation Framework"
+title: "Feeling Frustrated or Burned Out by Your Notes?"
+subtitle: "Introducing the HEART Framework—A Relational Approach to Therapy Notes"
 permalink: /heart-framework/
 layout: single
 author_profile: true
 ---
-
-## **Feeling Frustrated or Burned Out by Your Notes?**
-
-_Introducing the HEART Model—A Relational Approach to Therapy Notes_
 
 **HEART is a flexible documentation framework designed to honor both clinical nuance and ethical care.** Built for relational and process-based therapies like ACT, CFT, and IFS, it centers client experience, therapist presence, and the unfolding of change—not just interventions or compliance.
 
