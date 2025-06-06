@@ -1,6 +1,6 @@
 ---
 title: "The HEART Documentation Framework"
-permalink: /heart-of-therapy/heart-framework/
+permalink: /heart-framework/
 layout: single
 author_profile: true
 ---
@@ -33,5 +33,5 @@ HEART is built around five core elements:
 ---
 
 ### 🧠 Learn More:
-- [Breakdown by Section](/heart-of-therapy/heart-framework/breakdown/)
+- [Breakdown by Section](heart-framework/breakdown/)
 
