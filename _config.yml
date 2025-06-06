@@ -35,15 +35,18 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:bdalley@elliementalhealth.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/bdalley1"
+    - label: "Call Me"
+      icon: "fab fa-fw fa-phone"
+      url: "tel:3854384909"
 
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/bdalley1"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:bdalley@elliementalhealth.com"
+    - label: "Call Me"
+      icon: "fab fa-fw fa-phone"
+      url: "tel:3854384909"
 
 defaults:
   - scope:
