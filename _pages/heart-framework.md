@@ -5,7 +5,13 @@ layout: single
 author_profile: true
 ---
 
-The **HEART Framework** is a human-centered alternative to SOAP and other traditional note formats. It helps therapists document not just what happened, but the deeper therapeutic process that unfolded.
+**HEART is a flexible documentation framework designed to honor both clinical nuance and ethical care.** Built for relational and process-based therapies like ACT, CFT, and IFS, it centers client experience, therapist presence, and the unfolding of change—not just interventions or compliance.
+
+Unlike traditional formats like SOAP, which prioritize standardized structure for billing or auditing, **HEART reframes documentation as a relational and reflective practice.** It treats note-taking not as a detached record, but as an extension of the therapeutic process itself.
+
+Rooted in principles aligned with feminist ethics, HEART values voice, context, and collaboration. It invites clinicians to slow down, track meaning, and document not just *what happened*, but *what mattered.*
+
+It honors the artistry of therapy—messy, human, and full of meaning—by offering a format that is narrative-rich and bullet-flexible, bending to the work rather than forcing the work to fit a mold.
 
 ---
 
@@ -21,5 +27,6 @@ Each section emphasizes clinical nuance, rapport, and process—all the human pa
 
 ---
 
-[🧠 Paste more from your Notion page here—section by section is best. Let me know if you'd like help formatting as you go.]
+### 🧠 Learn More:
+- [Breakdown by Section](/sections/)
 
