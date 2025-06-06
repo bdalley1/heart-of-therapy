@@ -38,3 +38,7 @@ layout: single
 - Anything with psychological or relational significance
     
 **Traditional vs. HEART Examples**
+
+| 📋 **Compliance Traditional** | 🧾 **Standard Traditional** | ❤️ **HEART** |
+|---|---|---|
+| _Client discussed childhood._ | _Client shared memories from childhood and began to connect them to current relationship dynamics._ | _Client reflected on how being ignored as a child still shows up: “I shut down when people don’t text back.”_ |
