@@ -1,6 +1,5 @@
 ---
-title: "Feeling Frustrated or Burned Out by Your Notes?"
-subtitle: "Introducing the HEART Framework—A Relational Approach to Therapy Notes"
+title: "The HEART Documentation Framework"
 permalink: /heart-framework/
 layout: single
 author_profile: true
