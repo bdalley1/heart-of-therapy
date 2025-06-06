@@ -1,8 +1,7 @@
 ---
 title: What Does Each Section Mean? 
-permalink: /sections/
+permalink: /breakdown/
 layout: single
-author_profile: true
 ---
 
 ## **❤️ What is HEART?**
