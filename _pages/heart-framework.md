@@ -33,5 +33,5 @@ HEART is built around five core elements:
 ---
 
 ### 🧠 Learn More:
-- [Breakdown by Section](heart-framework/breakdown/)
+- [Breakdown by Section](/heart-of-therapy/heart-framework/breakdown/)
 
