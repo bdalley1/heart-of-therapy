@@ -9,6 +9,7 @@ layout: single
 ## **❤️ H – Human Connection**
 ---
 
+
 **Purpose:** Describe the relational and emotional tone between client and clinician.
 
 ### **🔑 Essential Elements:**
@@ -30,6 +31,7 @@ layout: single
 ---
 ## **🧠 E – Exploration & Themes**
 ---
+
     
 **Purpose:** Identify the emotional or symbolic content that emerged (directly or indirectly).
     
@@ -53,6 +55,7 @@ layout: single
 ---
 ## **🛠 A – Approach & Interventions**
 ---
+
     
 **Purpose:** Describe what the therapist did and how it matched the client’s tone, pacing, and needs.
     
