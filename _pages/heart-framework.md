@@ -5,6 +5,10 @@ layout: single
 author_profile: true
 ---
 
+# **Are Your Notes Burning You Out?**
+## _Introducing HEART—A Therapist-Centered, Client-Responsive Note Model Structure_
+---
+
 ---
 **HEART is a flexible documentation framework designed to honor both clinical nuance and ethical care.** Built for relational and process-based therapies like ACT, CFT, and IFS, it centers client experience, therapist presence, and the unfolding of change—not just interventions or compliance.
 
