@@ -25,7 +25,6 @@ include:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
@@ -45,7 +44,7 @@ author:
       url: "https://twitter.com/bryan_dalley"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/bryan-dalley-32b5ab369?trk=contact-info"
+      url: "https://www.linkedin.com/in/bryan-dalley-32b5ab369/"
     - label: "Psychology Today"
       icon: "fas fa-fw fa-user-md"
       url: "https://www.psychologytoday.com/us/therapists/bryan-dalley-provo-ut/1538539"
@@ -63,7 +62,7 @@ footer:
       url: "https://twitter.com/bryan_dalley"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/bryan-dalley-32b5ab369?trk=contact-info"
+      url: "https://www.linkedin.com/in/bryan-dalley-32b5ab369/"
     - label: "Psychology Today"
       icon: "fas fa-fw fa-user-md"
       url: "https://www.psychologytoday.com/us/therapists/bryan-dalley-provo-ut/1538539"
