@@ -40,7 +40,7 @@ author:
     - label: "Call Me"
       icon: "fas fa-phone"
       url: "tel:3854384909"
-      - label: "X (Twitter)"
+    - label: "X (Twitter)"
       icon: "fab fa-fw fa-x-twitter"
       url: "https://twitter.com/bryan_dalley"
 
@@ -52,7 +52,7 @@ footer:
     - label: "Call Me"
       icon: "fas fa-phone"
       url: "tel:3854384909"
-      - label: "X (Twitter)"
+    - label: "X (Twitter)"
       icon: "fab fa-fw fa-x-twitter"
       url: "https://twitter.com/bryan_dalley"
 
