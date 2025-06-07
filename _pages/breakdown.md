@@ -50,3 +50,14 @@ layout: single
 
 ---
 # **🛠 A – Approach & Interventions**
+    
+**Purpose:** Describe what the therapist did and how it matched the client’s tone, pacing, and needs.
+    
+**🔑 Essential Elements:**
+    
+- Chosen therapy model(s) (ACT, CFT, Narrative, IFS, etc.)
+- Style of delivery (e.g., indirect, structured, playful)
+- Specific tools or interventions used
+- Pacing and clinical intent
+
+**Traditional vs. HEART Examples**
