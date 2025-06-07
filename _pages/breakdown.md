@@ -5,12 +5,8 @@ layout: single
 ---
 
 <br><br>
----
-
 ## **❤️ H – Human Connection**
-
 ---
-<br><br>
 
 **Purpose:** Describe the relational and emotional tone between client and clinician.
 
@@ -30,12 +26,8 @@ layout: single
 | _Client was quiet and avoided eye contact. Therapist maintained appropriate demeanor._ | _Client presented as withdrawn and avoided eye contact. Therapist utilized a calm demeanor and slower pacing to support client engagement and emotional regulation._ | _Client appeared withdrawn and avoided eye contact; therapist responded with calm presence and soft pacing to maintain safety._ |
 
 <br><br>
----
-
 ## **🧠 E – Exploration & Themes**
-
 ---
-<br><br>
     
 **Purpose:** Identify the emotional or symbolic content that emerged (directly or indirectly).
     
@@ -56,12 +48,8 @@ layout: single
 | _Client expressed distress._ | _Client reported ongoing internal distress, stating he “just wants to disappear.” Presentation suggests persistent difficulties related to shame and self-worth._ | _Client referenced a part of himself that “just wants to disappear,” reflecting an ongoing internal struggle with shame and worth._ |
 
 <br><br>
----
-
 ## **🛠 A – Approach & Interventions**
-
 ---
-<br><br>
     
 **Purpose:** Describe what the therapist did and how it matched the client’s tone, pacing, and needs.
     
@@ -80,14 +68,9 @@ layout: single
 | _Provided psychoeducation._ | _Discussed how personal values can guide decision-making and reduce avoidance._ | _Therapist introduced values work using a metaphor about internal compasses; client resonated and shared, “I think mine’s been buried for a while.”_ | 
 | _Engaged in ACT-based intervention._ | _Therapist implemented ACT-based interventions, including values clarification and cognitive defusion techniques. Interventions were delivered informally to align with client’s communication style and engagement level._ | _Therapist used ACT-informed values prompts and defusion strategies, integrated into casual conversation to match the client’s pace._ |
 | _Used externalization technique._ | _Therapist utilized Narrative Therapy techniques, including externalization of self-critical thoughts. Client and therapist collaboratively labeled these thoughts as “The Shadow Voice” to support cognitive distancing._ | _Therapist employed Narrative externalization, co-naming the client’s inner critic as “The Shadow Voice” to reduce internal fusion._ |
-
 <br><br>
----
-
 ## **📈 R – Response & Progress**
-
 ---
-<br><br>
 
 **Purpose:** Reflect how the client received and responded to the approach, emotionally or relationally, and if anything shifted. 
 
@@ -109,12 +92,8 @@ layout: single
 | _Client was present and maintained eye contact._ | _Client demonstrated emotional avoidance but maintained engagement and eye contact, suggesting developing rapport._ | _Though the client deflected emotionally, his consistent presence and eye contact suggest emerging trust in the therapeutic relationship._ |
 
 <br><br>
----
-
 ## **🔭 T – Trajectory & Plan**
-
 ---
-<br><br>
 
 **Purpose:** Describe clinical focus going forward, including pacing and relational needs.
 
