@@ -42,3 +42,6 @@ layout: single
 | 📋 **Compliance Traditional** | 🧾 **Standard Traditional** | ❤️ **HEART** |
 |---|---|---|
 | _Client discussed childhood._ | _Client shared memories from childhood and began to connect them to current relationship dynamics._ | _Client reflected on how being ignored as a child still shows up: “I shut down when people don’t text back.”_ |
+| _Client reported anxiety_ | _Client reported persistent anxiety, particularly in anticipation of social situations._ | _Client described anxiety as “like a motor running all the time,” especially when anticipating social situations._ |
+| _Client avoided structured discussion._ | _Client was resistant to structured discussion. Client discussed feelings of failure and comparison indirectly, referencing these themes during conversation about media._ | _Client avoided structured discussion but explored themes of failure and comparison through media and casual commentary._ |
+| _Client expressed distress._ | _Client reported ongoing internal distress, stating he “just wants to disappear.” Presentation suggests persistent difficulties related to shame and self-worth._ | _Client referenced a part of himself that “just wants to disappear,” reflecting an ongoing internal struggle with shame and worth._ |
