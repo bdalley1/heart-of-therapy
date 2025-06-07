@@ -5,8 +5,9 @@ layout: single
 author_profile: true
 ---
 
+---
 # **Are Your Notes Burning You Out?**
-## _Introducing HEART—A Therapist-Centered, Client-Responsive Note Model Structure_
+_Introducing HEART—A Therapist-Centered, Client-Responsive Note Model Structure_
 ---
 
 ---
