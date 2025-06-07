@@ -9,7 +9,6 @@ layout: single
 ## **❤️ H – Human Connection**
 ---
 
-
 **Purpose:** Describe the relational and emotional tone between client and clinician.
 
 ### **🔑 Essential Elements:**
