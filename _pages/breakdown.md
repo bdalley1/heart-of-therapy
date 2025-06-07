@@ -55,3 +55,6 @@ layout: single
 - Pacing and clinical intent
 
 **Traditional vs. HEART Examples**
+
+| 📋 **Compliance Traditional** | 🧾 **Standard Traditional** | ❤️ **HEART** |
+|---|---|---|
