@@ -20,10 +20,7 @@ Unlike traditional formats like SOAP, which prioritize standardized structure fo
 Rooted in principles aligned with feminist ethics, HEART values voice, context, and collaboration. It invites clinicians to slow down, track meaning, and document not just *what happened*, but *what mattered.*
 
 It honors the artistry of therapy—messy, human, and full of meaning—by offering a format that is narrative-rich and bullet-flexible, bending to the work rather than forcing the work to fit a mold.
-
 <br><br>
----
-
 ### **❤️ What is HEART?**
 
 HEART is built around five core elements:
