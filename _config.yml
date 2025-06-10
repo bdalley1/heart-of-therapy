@@ -58,6 +58,7 @@ author:
       icon: "fas fa-fw fa-user-md"
       url: "https://www.psychologytoday.com/us/therapists/bryan-dalley-provo-ut/1538539"
 
+# 🧼 This wipes the default feed icon by fully overriding footer.links
 footer:
   links:
     - label: "Email"
@@ -84,6 +85,7 @@ footer:
       icon: "fas fa-fw fa-user-md"
       url: "https://www.psychologytoday.com/us/therapists/bryan-dalley-provo-ut/1538539"
 
+# 🧠 This determines how layouts behave for blog posts and pages
 defaults:
   - scope:
       path: ""
@@ -100,3 +102,12 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+# Optional: category/tag archive pages if you ever blog
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+  
