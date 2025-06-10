@@ -32,6 +32,7 @@ author:
   name   : "Bryan Dalley, M.E.d., ACMHC"
   avatar : "/assets/images/bryan-photo.jpg"
   bio    : "Therapist, writer, human. I believe therapy—and notes—should feel human."
+  links_label: "Contact Me"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
