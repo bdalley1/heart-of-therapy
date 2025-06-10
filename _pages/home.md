@@ -1,5 +1,5 @@
 ---
-layout: sunrise
+layout: splash
 title: "Welcome"
 permalink: /
 author_profile: true
