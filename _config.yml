@@ -34,7 +34,7 @@ author:
   bio    : "Therapist, writer, human. I believe therapy—and notes—should feel human."
   links_label: "Contact Me"  # ← Will now show properly
   links:
-    - label: "Email"
+    - label: "Email Me"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:bdalley@elliementalhealth.com"
 
@@ -52,7 +52,7 @@ atom_feed:
 # 🧼 This wipes the default feed icon by fully overriding footer.links
 footer:
   links:
-    - label: "Email"
+    - label: "Email Me"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:bdalley@elliementalhealth.com"
 
