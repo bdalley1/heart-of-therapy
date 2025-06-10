@@ -1,7 +1,7 @@
 ---
 title: "For Clients"
 permalink: /for-clients/
-layout: sunrise
+layout: single
 author_profile: true
 ---
 
