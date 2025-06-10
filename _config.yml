@@ -7,7 +7,7 @@ description: >-
 url: "https://bdalley1.github.io"
 baseurl: "/heart-of-therapy"
 github_username: bdalley1
-minimal_mistakes_skin: splash
+minimal_mistakes_skin: default
 search: true
 
 # Theme setup
