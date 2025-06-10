@@ -1,7 +1,7 @@
 ---
 title: "The HEART Documentation Framework"
 permalink: /heart-framework/
-layout: single
+layout: sunrise
 author_profile: true
 ---
 
