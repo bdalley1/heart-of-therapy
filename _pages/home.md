@@ -1,9 +1,8 @@
 ---
-title: "Home"
+layout: splash
+title: "Welcome"
 permalink: /
-layout: single
 author_profile: true
-classes: wide
 ---
 
 **Welcome — I’m Bryan.**
