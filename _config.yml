@@ -36,18 +36,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:bdalley@elliementalhealth.com"
-    - label: "Call Me"
+    - label: "Call or Text Me"
       icon: "fas fa-phone"
-      url: "tel:3854384909"
-    - label: "X (Twitter)"
-      icon: "fab fa-fw fa-x-twitter"
-      url: "https://twitter.com/bryan_dalley"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/bryan-dalley-32b5ab369/"
-    - label: "Psychology Today"
-      icon: "fas fa-fw fa-user-md"
-      url: "https://www.psychologytoday.com/us/therapists/bryan-dalley-provo-ut/1538539"
+      url: "tel:8019603032"
       
 footer:
   links:
