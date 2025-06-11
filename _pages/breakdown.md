@@ -1,6 +1,6 @@
 ---
 title: Breakdown by Section with Traditional-to-HEART Examples 
-permalink: /heart-framework/breakdown/
+permalink: /heart/breakdown/
 layout: single
 ---
 
