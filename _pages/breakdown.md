@@ -1,7 +1,7 @@
 ---
 title: Breakdown by Section with Traditional-to-HEART Examples 
 permalink: /heart/breakdown/
-layout: single
+layout: splash
 ---
 
 <br><br>
