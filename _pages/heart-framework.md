@@ -1,6 +1,6 @@
 ---
 title: "The HEART Documentation Framework"
-permalink: /heart-framework/
+permalink: /heart/
 layout: single
 author_profile: true
 ---
