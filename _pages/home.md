@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: aqua
 title: "Welcome"
 permalink: /
 author_profile: true
