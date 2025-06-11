@@ -1,7 +1,7 @@
 ---
 title: "The HEART Documentation Framework"
 permalink: /heart/
-layout: single
+layout: splash
 author_profile: true
 ---
 
@@ -37,6 +37,16 @@ HEART is built around five core elements:
 
 ---
 
-#### 🧠 Learn More:
-- [Breakdown by Section](/heart-of-therapy/heart-framework/breakdown/)
+### 🧠 Want to Go Deeper?
+
+**Explore how HEART works in practice:**
+
+- 🔍 [**Breakdown by Section**](/heart-of-therapy/heart/breakdown/)  
+  A detailed look at each part section of a HEART note, showing what to include and how it compares to traditional formats—so you can document what mattered, not just what happened.
+
+- 🪶 [**Full vs. Lite Notes**](/heart-of-therapy/heart/full-vs-lite/)  
+  Need to catch up on notes but don’t want to lose the heart of the session? HEART comes in two formats—Full and Lite—so you can choose the level of depth that fits your time and therapeutic style.
+
+*(More guides coming soon!)*
+
 
