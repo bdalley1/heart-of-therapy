@@ -4,6 +4,10 @@ permalink: /heart/breakdown/
 layout: splash
 ---
 
+
+**This guide walks through each section of a HEART note—what it captures, why it matters, and how it compares to traditional formats.**
+For every section, you’ll find essential elements to include and side-by-side examples that highlight the shift from compliance-based notes to relational, process-rich documentation.
+
 <br><br>
 ## **❤️ H – Human Connection**
 ---
@@ -68,6 +72,7 @@ layout: splash
 | _Provided psychoeducation._ | _Discussed how personal values can guide decision-making and reduce avoidance._ | _Therapist introduced values work using a metaphor about internal compasses; client resonated and shared, “I think mine’s been buried for a while.”_ | 
 | _Engaged in ACT-based intervention._ | _Therapist implemented ACT-based interventions, including values clarification and cognitive defusion techniques. Interventions were delivered informally to align with client’s communication style and engagement level._ | _Therapist used ACT-informed values prompts and defusion strategies, integrated into casual conversation to match the client’s pace._ |
 | _Used externalization technique._ | _Therapist utilized Narrative Therapy techniques, including externalization of self-critical thoughts. Client and therapist collaboratively labeled these thoughts as “The Shadow Voice” to support cognitive distancing._ | _Therapist employed Narrative externalization, co-naming the client’s inner critic as “The Shadow Voice” to reduce internal fusion._ |
+
 <br><br>
 ## **📈 R – Response & Progress**
 ---
