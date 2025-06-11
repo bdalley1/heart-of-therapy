@@ -4,6 +4,6 @@ main:
   - title: "About"
     url: "/about/"
   - title: "HEART Framework"
-    url: "/heart-framework/"
+    url: "/heart/"
   - title: "For Clients"
     url: "/for-clients/"
