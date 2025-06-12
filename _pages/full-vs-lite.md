@@ -36,6 +36,8 @@ Full HEART allows for rich narrative detail. It highlights the emotional tone of
 **Purpose:**  
 HEART-Lite maintains the core structure of HEART but is optimized for efficiency. It allows clinicians to document sessions quickly while still capturing relational tone, client themes, clinical interventions, and direction of treatment. HEART-Lite can be adapted as needed—not all sections need to be included in every note.
 
+> **Speed-writing before supervision but worried your notes will sound like you just googled “how to write fast therapy notes”?** [See how HEART-Lite holds up against other formats](/heart-of-therapy/heart/full-vs-lite/rushed-notes/) when you’re short on time but still care about substance.
+
 ---
 
 ### 📜 **Choosing a Format**
@@ -61,3 +63,4 @@ Ask yourself:
 ---
 
 > 💡 **When in doubt, match the note to the depth of the session, the demands of the setting, and your available time.**
+
