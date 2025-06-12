@@ -5,10 +5,7 @@ layout: splash
 author_profile: true
 ---
 
-<br><br>
----
-
-## **Are Your Notes Burning You Out?**
+# **Are Your Notes Burning You Out?**
 _Introducing HEART—A Therapist-Centered, Client-Responsive Note Model Structure_
 
 ---
@@ -21,7 +18,7 @@ Rooted in principles aligned with feminist ethics, HEART values voice, context, 
 
 It honors the artistry of therapy—messy, human, and full of meaning—by offering a format that is narrative-rich and bullet-flexible, bending to the work rather than forcing the work to fit a mold.
 <br><br>
-### **❤️ What is HEART?**
+## **❤️ What is HEART?**
 
 HEART is built around five core elements:
 
@@ -37,7 +34,7 @@ HEART is built around five core elements:
 
 ---
 
-### 🧠 Want to Go Deeper?
+## 🧠 Want to Go Deeper?
 
 **Explore how HEART works in practice:**
 
