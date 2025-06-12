@@ -1,10 +1,8 @@
 ---
-title: Rushed Notes, Real Talk: HEART-Lite vs. Other Quick Formats
+title: "Rushed Notes, Real Talk: HEART-Lite vs. Other Quick Formats"
 permalink: /heart/full-vs-lite/rushed-notes/
 layout: splash
 ---
-
-# **Rushed Notes, Real Talk: HEART-Lite vs. Other Quick Formats**
 
 ## 🧾 Rushed Notes Side-by-Side: Session 1
 
