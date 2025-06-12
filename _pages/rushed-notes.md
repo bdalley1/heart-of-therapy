@@ -8,6 +8,14 @@ layout: splash
 
 ---
 
+Let’s be honest: sometimes, the goal is just to get the notes done before supervision tomorrow. When you're facing a backlog and your brain is doing its best goldfish impression, you need a documentation format that works *with* you, not against you.
+
+This page compares several common “rushed” note styles—PIE, DAP, SOAP, simple narrative—and how they hold up when you're writing fast. Each format is applied to the same three sessions, followed by a breakdown of what each one captures well, what tends to fall through the cracks, and how **HEART-Lite** aims to strike that sweet spot: quick, meaningful, and clinically grounded.
+
+Whether you're catching up or refining your note-taking style, this guide is here to help you document efficiently—without losing the heart of the session.
+
+---
+
 ## 🧾 Rushed Notes Side-by-Side: Session 1
 
 | **Format**      | **Note Example** |
