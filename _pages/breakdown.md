@@ -4,11 +4,11 @@ permalink: /heart/breakdown/
 layout: splash
 ---
 
+# **Breakdown by Section with Traditional-to-HEART Examples**
 
 **This guide walks through each section of a HEART note—what it captures, why it matters, and how it compares to traditional formats.**
 For every section, you’ll find essential elements to include and side-by-side examples that highlight the shift from compliance-based notes to relational, process-rich documentation.
 
-<br><br>
 ## **❤️ H – Human Connection**
 ---
 
