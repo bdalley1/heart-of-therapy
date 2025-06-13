@@ -8,11 +8,13 @@ layout: splash
 
 ---
 
-Let’s be honest: Sometimes, the goal is just to get the notes done before insurance refuses payment. When you're facing a backlog and your brain is doing its best goldfish impression, you need a documentation format that works *with* you, not against you.
+Let’s be real—sometimes, writing notes isn’t about deep reflection. It’s about catching up before insurance kicks back another denial and your EHR times out (again). When your brain’s in survival mode, you need a format that works with you, not against you.
 
-This page compares several common “rushed” note styles—PIE, DAP, SOAP, simple narrative—and how they hold up when you're writing quickly. Each format is applied to the same three sessions, followed by a breakdown of what each format captures well, what tends to fall through the cracks, what was ethical or not, and how **HEART-Lite** aims to strike that sweet spot: quick, meaningful, clinically grounded, and ethical.
+This page compares how five common note styles—SOAP, DAP, PIE, simple narrative, and HEART-Lite—perform when time is short and detail is scarce. Each format is applied to the same three sessions, showing what each one captures, what it misses, and how ethically it holds up under pressure.
 
-Whether you're catching up or refining your note-taking style, this guide is here to help you document efficiently, ethically, and quickly—without losing the heart of the session.
+You’ll also see where HEART-Lite fits in: designed for speed and substance, it aims to balance clinical clarity with ethical care, even when the clock’s not on your side.
+
+Whether you’re buried in backlogged notes or looking to upgrade your style, this guide helps you write faster _without writing off what matters_.
 
 ---
 
