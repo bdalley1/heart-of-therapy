@@ -29,7 +29,7 @@ plugins:
 
 author:
   name   : "Bryan Dalley, M.Ed., ACMHC"
-  avatar : "assets/images/bryan-dalley-provo-therapist.jpg"
+  avatar : "assets/images/bryan_dalley_provo_therapist.jpg"
   bio    : "Therapist, writer, human. I believe therapy—and notes—should feel human."
   links_label: "Contact Me"  # ← Will now show properly
   links:
@@ -76,8 +76,8 @@ footer:
       url: "https://www.psychologytoday.com/us/therapists/bryan-dalley-provo-ut/1538539"
 
     - label: "TherapyDen"
-      icon: "custom"
-      url: https://www.therapyden.com/therapist/bryan-dalley-provo-ut
+      icon: "fas fa-globe"
+      url: "https://www.therapyden.com/therapist/bryan-dalley-provo-ut"
 
 # 🧠 This determines how layouts behave for blog posts and pages
 defaults:
