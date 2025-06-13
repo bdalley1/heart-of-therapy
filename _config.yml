@@ -76,7 +76,7 @@ footer:
       url: "https://www.psychologytoday.com/us/therapists/bryan-dalley-provo-ut/1538539"
 
     - label: "TherapyDen"
-      icon: "assets/images/therapyden-logo-for-provo-therapist-ADHD.png"
+      icon: "custom"
       url: https://www.therapyden.com/therapist/bryan-dalley-provo-ut
 
 # 🧠 This determines how layouts behave for blog posts and pages
