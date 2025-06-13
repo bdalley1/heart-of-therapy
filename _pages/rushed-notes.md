@@ -10,7 +10,7 @@ layout: splash
 
 Let’s be honest: Sometimes, the goal is just to get the notes done before insurance refuses payment. When you're facing a backlog and your brain is doing its best goldfish impression, you need a documentation format that works *with* you, not against you.
 
-This page compares several common “rushed” note styles—PIE, DAP, SOAP, simple narrative—and how they hold up when you're writing quickly. Each format is applied to the same three sessions, followed by a breakdown of what each format captures well, what tends to fall through the cracks, and how **HEART-Lite** aims to strike that sweet spot: quick, meaningful, clinically grounded, and ethical.
+This page compares several common “rushed” note styles—PIE, DAP, SOAP, simple narrative—and how they hold up when you're writing quickly. Each format is applied to the same three sessions, followed by a breakdown of what each format captures well, what tends to fall through the cracks, what was ethical or not, and how **HEART-Lite** aims to strike that sweet spot: quick, meaningful, clinically grounded, and ethical.
 
 Whether you're catching up or refining your note-taking style, this guide is here to help you document efficiently, ethically, and quickly—without losing the heart of the session.
 
@@ -54,6 +54,25 @@ Whether you're catching up or refining your note-taking style, this guide is her
 | **HEART-Lite** | **H – Human connection:** Client appeared physically and emotionally drained. Therapist acknowledged the heaviness and slowed the session pace to match energy and build trust. <br> **E – Exploration & Themes:** Focused on emotional fatigue, disconnection from work, and internalized pressure to “keep performing.” Themes of identity and meaninglessness surfaced. <br> **A – Approach & Interventions:** Used ACT-informed metaphor about values as internal anchors; offered gentle psychoeducation on burnout and systemic fatigue. <br> **R – Response & Progress:** Client nodded, said, “That explains a lot,” and asked to keep talking about values next time. Expressed relief at having language for what he’s feeling. <br> **T – Trajectory & Plan:** Will expand on values work and explore what fulfillment looks like beyond productivity. Therapist will bring prompts for next session. |
 
 --- 
+
+## 🤔 Let's Break it Down—How Did Everyone Do?
+
+| **Format** | **Captured Well** | **Missed or Lacked** |
+|---|---|---|
+| **DAP** | Emotional state, symptoms, and structured planning | Little client voice or process detail; emotion flattened into symptoms 
+
+---
+
+## 📋 Ethical Principles Comparison Across Note Formats
+
+| **Format**      | **Respect for Client Autonomy** | **Fidelity & Honesty** | **Clinical Transparency** | **Cultural/Contextual Sensitivity** | **Avoiding Reductionism** | **Documentation as Ethical Narrative** | **Overall Ethical Summary** |
+|-----------------|----------------------------------|--------------------------|----------------------------|--------------------------------------|-----------------------------|-----------------------------------------|------------------------------|
+| **DAP**         | ⚠️ Limited – client voice is present but filtered through clinical language | ✅ Accurate but framed in diagnostic terms | ✅ Clearly outlines clinical plan | ❌ Rarely addresses cultural or relational nuance | ❌ Tends to reduce to symptoms and tasks | ❌ Primarily task-oriented, not relational | **Structured but ethically thin; prioritizes efficiency over nuance.** |
+| **SOAP**        | ❌ Often erases client voice in favor of structure | ✅ Factually accurate but flattens experience | ✅ Strong audit alignment | ⚠️ Some behavioral cues noted, but lacks deeper context | ❌ Emotions often medicalized | ❌ Emphasizes efficiency over narrative | **Highly audit-friendly but weak in relational and ethical framing.** |
+| **PIE**         | ⚠️ Moderate – shows client engagement, but therapist leads framing | ✅ Generally honest and intervention-focused | ✅ Intervention and outcome are clear | ❌ Minimal attention to culture or emotional layers | ⚠️ Focuses on problems and outcomes | ❌ More clinical formulation than human story | **Solid clinical utility but misses emotional and ethical depth.** |
+| **Simple**      | ✅ Client-led tone and language preserved | ⚠️ Vague but generally truthful | ❌ Lacks intervention clarity | ❌ No context or cultural factors included | ❌ Oversimplified and hollow | ❌ Too thin to be ethically complete | **Relationally honest but ethically incomplete due to lack of depth.** |
+| **HEART-Lite**  | ✅ Client voice and experience honored | ✅ Transparent and collaborative | ✅ Therapist intent and pacing made visible | ✅ Emotion, culture, and systemic pressure acknowledged | ✅ Embraces emotional/process nuance | ✅ Captures session as a narrative of care | **Strong ethical alignment even in brief form; balances humanity and clarity.** |
+
 
 ## 🔍 What HEART-Lite Captures That Others Often Miss
 
