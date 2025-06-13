@@ -29,7 +29,7 @@ plugins:
 
 author:
   name   : "Bryan Dalley, M.Ed., ACMHC"
-  avatar : "/assets/images/bryan-dalley-provo-therapist-ADHD-porn-addiction.jpg"
+  avatar : "assets/images/bryan-dalley-provo-therapist.jpg"
   bio    : "Therapist, writer, human. I believe therapy—and notes—should feel human."
   links_label: "Contact Me"  # ← Will now show properly
   links:
