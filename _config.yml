@@ -29,19 +29,19 @@ plugins:
 
 author:
   name   : "Bryan Dalley, M.Ed., ACMHC"
-  avatar : "/assets/images/bryan-photo.jpg"
+  avatar : "/assets/images/bryan-dalley-provo-therapist-ADHD-porn-addiction.jpg"
   bio    : "Therapist, writer, human. I believe therapy—and notes—should feel human."
   links_label: "Contact Me"  # ← Will now show properly
   links:
-    - label: "Email Me"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:bdalley@elliementalhealth.com"
 
-    - label: "Call Me"
+    - label: "Call"
       icon: "fas fa-phone"
       url: "tel:+18019603032"
 
-    - label: "Text Me"
+    - label: "Text"
       icon: "fas fa-comment-dots"
       url: "sms:+18019603032"
 
@@ -51,22 +51,22 @@ atom_feed:
 # 🧼 This wipes the default feed icon by fully overriding footer.links
 footer:
   links:
-    - label: "Email Me"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:bdalley@elliementalhealth.com"
 
-    - label: "Call Me"
+    - label: "Call"
       icon: "fas fa-phone"
       url: "tel:+18019603032"
 
-    - label: "Text Me"
+    - label: "Text"
       icon: "fas fa-comment-dots"
       url: "sms:+18019603032"
 
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/bryan-dalley-32b5ab369/"
-
+      url: "https://www.linkedin.com/in/bryandalley
+      
     - label: "X (Twitter)"
       icon: "fab fa-fw fa-x-twitter"
       url: "https://twitter.com/bryan_dalley"
@@ -74,6 +74,10 @@ footer:
     - label: "Psychology Today"
       icon: "fas fa-fw fa-user-md"
       url: "https://www.psychologytoday.com/us/therapists/bryan-dalley-provo-ut/1538539"
+
+    - label: "TherapyDen"
+      icon: "assets/images/therapyden-logo-for-provo-therapist-ADHD.png"
+      url: https://www.therapyden.com/therapist/bryan-dalley-provo-ut
 
 # 🧠 This determines how layouts behave for blog posts and pages
 defaults:
