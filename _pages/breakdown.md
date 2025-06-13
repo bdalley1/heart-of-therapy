@@ -28,7 +28,6 @@ layout: splash
 | _Therapist built rapport with client._ | _Therapist and client engaged in open conversation; rapport appeared to strengthen over the course of the session._ | _Client smiled and said, “This actually feels helpful”—a moment of connection that deepened relational safety._ |
 | _Client was cooperative and maintained appropriate eye contact._ | _Client demonstrated increased engagement, including consistent eye contact and cooperative demeanor._ | _Client made sustained eye contact for the first time and said, “It’s getting easier to talk to you,” marking a shift toward trust._ |
 | _Client was quiet and avoided eye contact. Therapist maintained appropriate demeanor._ | _Client presented as withdrawn and avoided eye contact. Therapist utilized a calm demeanor and slower pacing to support client engagement and emotional regulation._ | _Client appeared withdrawn and avoided eye contact; therapist responded with calm presence and soft pacing to maintain safety._ |
-| _Client made sustained eye contact for the first time and said, “It’s getting easier to talk to you,” marking a shift toward trust._ | _Therapist acknowledged this shift gently, saying, “I really appreciate you being here, even when it’s hard.”_ |
 
 <br><br>
 ## **🧠 E – Exploration & Themes**
