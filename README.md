@@ -1,6 +1,6 @@
 # The HEART of Therapy
 
-Welcome to the GitHub repository for my professional website. my name is Bryan Dalley, M.Ed, ACMHC. I am an ADHD and sexual addiction therapist based in Provo, Utah. This site hosts the **HEART Documentation Framework**—a relational, human-centered approach to therapy notes—and provides resources for clients, therapists, and fellow curious humans.
+Welcome to the GitHub repository for my professional website. My name is Bryan Dalley, M.Ed, ACMHC. I am an ADHD and sexual addiction (such as problematic pornography use) therapist based in Provo, Utah. This site hosts the **HEART Documentation Framework**—a relational, human-centered approach to therapy notes—and provides resources for clients, therapists, and fellow curious humans.
 
 🫀 **HEART** stands for:
 - Human connection  
