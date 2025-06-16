@@ -1,8 +1,7 @@
 ---
 layout: splash
 title: "Documentation with Heart"
-permalink: https://bdalley1.github.io/heart-of-therapy/
-base url: /
+permalink: /
 excerpt: "Tools for ethical, fast, and human-centered documentation — without losing the soul of the session."
 header:
   overlay_color: "#f9f3ec"
