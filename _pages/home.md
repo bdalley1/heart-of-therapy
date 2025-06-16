@@ -66,7 +66,7 @@ Check out essays and reflections on ethics, therapy systems, and documentation r
 
 </div>
 
----
+--- 
 
 ## ✍️ Latest from the Blog
 
