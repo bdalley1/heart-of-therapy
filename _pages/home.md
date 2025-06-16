@@ -1,79 +1,86 @@
 ---
 layout: splash
-title: "Welcome"
-description: "Welcome to the HEART framework and therapy resources by Bryan Dalley."
-permalink: /
+title: "Documentation with Heart"
+excerpt: "Tools for ethical, fast, and human-centered documentation — without losing the soul of the session."
+header:
+  overlay_color: "#f9f3ec"
+  overlay_image: /assets/images/heart-logo.png
+  overlay_filter: "0.0"
+  actions:
+    - label: "Explore HEART"
+      url: "/heart"
+      class: "btn btn--primary"
+    - label: "For Clients"
+      url: "/clients"
+      class: "btn btn--inverse"
+    - label: "Read the Blog"
+      url: "/writing"
+      class: "btn btn--light-outline"
 ---
 
-# 👋 Welcome
-
-## Therapy with integrity. Documentation with heart.
-
-**HEART** is a therapist-centered documentation framework — designed to help you write notes that are fast, ethical, and actually reflect the work you do.  
-And if you’re a client? This site’s for you too. Let’s make therapy more human, together.
-
-<div style="margin-top: 1.5rem;">
-  <a href="/heart" class="button">Explore the HEART Framework</a>
-  <a href="/clients" class="button-secondary">For Clients</a>
-  <a href="/writing" class="button-secondary">Read My Writing</a>
+<div class="text-center" style="padding-top: 2rem;">
+  <p class="lead">
+    HEART is a therapist-created framework for ethical, efficient, and relational documentation.<br>
+    Whether you're a clinician, client, or curious reader — welcome.
+  </p>
 </div>
 
 ---
 
-## ✨ Who I Am
+## 🧠 What Is HEART?
 
-Hi, I’m Bryan — therapist, ethics nerd, and the creator of the HEART documentation framework. I care deeply about therapy that’s real, relational, and grounded in values — whether I’m in session, writing a note, or challenging broken systems.
+**HEART** is more than a format — it's a philosophy of documentation.  
+It helps therapists write faster, more meaningful notes that support good care — not just billing codes.
 
-> “I wanted a way to write notes that honored the human story behind them — and didn’t erase the meaning in favor of the metrics.”
-
-[Learn more →](/about)
+<div class="text-center">
+  <a href="/heart" class="btn btn--primary">Learn More About the HEART Framework</a>
+</div>
 
 ---
 
 ## 🧭 Choose Your Path
 
-### 🫶 For Clients
-What therapy with me is like, plus resources for your journey.  
-👉 [Visit the Client Page](/clients)
+<div class="feature__wrapper">
 
-### 📄 For Therapists
-A new approach to clinical documentation — structured, fast, and genuinely ethical.  
-👉 [Explore HEART](/heart)
+### 👩‍⚕️ I'm a Therapist
+{: .feature__item}
 
-### ✍️ For Readers & Researchers
-Essays, ethics, and explorations in making the mental health system more humane.  
-👉 [Browse the Writing](/writing)
+Want to write better notes — faster? Explore the HEART Framework and download free tools.  
+[Explore HEART](/heart)
 
 ---
 
-## 💡 Why HEART?
+### 🧍 I'm a Client
+{: .feature__item}
 
-Documentation doesn’t have to feel like a chore or a checkbox.  
-The HEART framework helps clinicians write faster, more meaningful notes that support good care — not just billing codes.
-
-- ✅ Audit-ready and ethical  
-- 🧠 Captures clinical nuance  
-- 🕒 Fast and ADHD-friendly  
-- 💬 Honors the therapy relationship
-
-[Compare HEART to SOAP/DAP →](/heart#comparison)
+Learn how I approach therapy, browse resources, and see if we’re a good fit.  
+[Visit the Client Page](/clients)
 
 ---
 
-## 📬 Stay in Touch
+### 🧾 I'm Here to Read
+{: .feature__item}
 
-Want updates, tools, or the occasional therapist pep talk?
+Check out essays and reflections on ethics, therapy systems, and documentation reform.  
+[Browse the Blog](/writing)
 
-<form action="https://yourmailinglist.com/subscribe" method="POST">
-  <input type="email" name="email" placeholder="Your email address" />
-  <button type="submit">Subscribe</button>
-</form>
+</div>
 
 ---
 
-<footer>
-  <p style="font-size: 0.9rem; color: #666;">
-    © {{ site.time | date: '%Y' }} Bryan — All content for educational purposes only.  
-    <br/>No spam, no nonsense, just humans trying to do better.
-  </p>
-</footer>
+## ✍️ Latest from the Blog
+
+_“What if our notes reflected care, not just compliance?”_  
+A look at documentation ethics, burnout, and reclaiming the purpose of clinical writing.  
+👉 [Read the Full Post](/writing/what-if-notes-reflected-care)
+
+---
+
+## 👋 About Me
+
+Hi, I’m Bryan — therapist, writer, and the creator of the HEART framework.  
+I believe therapy and documentation can both be relational, ethical, and human — even in broken systems.
+
+<div class="text-center">
+  <a href="/about" class="btn btn--light">Read More About Me</a>
+</div>
