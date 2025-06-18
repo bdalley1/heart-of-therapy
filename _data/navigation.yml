@@ -1,9 +1,9 @@
 main:
   - title: "Home"
-    url: "/"
-  - title: "About"
-    url: "/about/"
-  - title: "HEART Framework"
-    url: "/heart/"
+    url: /
+  - title: "About Me"
+    url: /about/
   - title: "For Clients"
-    url: "/for-clients/"
+    url: /for-clients/
+  - title: "HEART Framework"
+    url: /heart/
