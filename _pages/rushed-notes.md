@@ -60,8 +60,12 @@ Whether you’re buried in backlogged notes or looking to upgrade your style, th
 ## 🤔 Let's Break it Down—How Did Everyone Do?
 
 | **Format** | **Captured Well** | **Missed or Lacked** |
-|---|---|---|
-| **DAP** | Emotional state, symptoms, and structured planning | Little client voice or process detail; emotion flattened into symptoms 
+|------------|-------------------|-----------------------|
+| **DAP** | Emotional state, symptoms, a clear plan | Minimal client voice, little process detail |
+| **SOAP** | Observable data, concise treatment direction | Lacks warmth; relational dynamics not present |
+| **PIE** | Intervention focus and client engagement | Doesn’t clearly convey emotional tone or session flow |
+| **Simple Note** | That something happened | Depth, emotion, therapist thinking—basically everything else |
+| **HEART-Lite** | Client emotion, session theme, relational tone, therapist reasoning | May require more explanation in rigid settings |
 
 ---
 
@@ -118,17 +122,4 @@ Other formats tend to fall into one of two extremes:
 - **Too skeletal**, losing nuance and meaning  
 - **Too rigid**, stifling clinical voice and warmth  
 
-HEART-Lite offers a third path—efficient, human, and still grounded in real therapeutic process.
-
-## 🔍 How HEART-Lite Compares to Other Formats
-
-| **Format** | **Strengths** | **Limitations** | **Vibe** |
-|------------|----------------|------------------|----------|
-| **HEART-Lite** | Balances clinical depth with warmth and brevity; easy to personalize; captures relational + process elements | May feel unfamiliar to agencies that rely on traditional formats | 🧠 Relational, reflective, flexible |
-| **DAP** | Straightforward structure; accepted in most settings; combines narrative with brief assessment | Can feel dry or rigid; often lacks emotional/process nuance | 📋 Structured, clinical |
-| **SOAP** | Familiar to medical settings; emphasizes observable data and planning | Over-medicalized for therapy; can miss nuance of emotions or connection | 🩺 Objective, diagnostic |
-| **PIE** | Focuses on problem-solving; emphasizes intervention and outcome | Less room for context or process; often skips relational nuance | 🔧 Action-oriented, concise |
-| **Simple Note** | Fastest option; better than nothing in a pinch | Lacks structure, depth, or defensibility | ⚡ Quick, vague, risky for audits |
-
-### 💡 Bottom Line:
-**HEART-Lite** is built for therapists who want to write quickly *without* sacrificing therapeutic presence, emotional tone, or clinical insight. It’s ideal when you’re short on time—but still want your notes to sound like *you* were actually there.
+HEART-Lite offers a third path—efficient, human, and still grounded in real therapeutic process. It’s ideal when you’re short on time—but still want your notes to sound like *you* were actually there.
